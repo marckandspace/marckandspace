@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marckandspace
+- 👋 Hi, I’m @judemarck
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Creating Websites, Mobile Apps and Computer Software
